@@ -1,0 +1,3 @@
+
+class InvalidPointsException(Exception):
+    pass
